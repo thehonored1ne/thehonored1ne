@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Flutter**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available at [https://github.com/thehonored1ne?tab=repositories](https://github.com/thehonored1ne?tab=repositories)
 
 - 📫 How to reach me **dion.areglo1234@gmail.com**
 
