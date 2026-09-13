@@ -4,7 +4,7 @@
   <h3>Full-Stack & Frontend Engineer · Philippines 🇵🇭</h3>
 
   <p>
-    Passionate about crafting resilient, high-density web applications, authentic UI systems, and clean backend architectures.
+    Crafting high-density web applications, resilient backend architectures, and intentional design systems.
   </p>
 
   <p>
@@ -14,6 +14,9 @@
     <a href="https://github.com/thehonored1ne?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repos" />
     </a>
+    <a href="https://github.com/thehonored1ne">
+      <img src="https://img.shields.io/github/followers/thehonored1ne?label=Followers&style=flat-square&color=58a6ff&logo=github" alt="Followers" />
+    </a>
   </p>
 </div>
 
@@ -21,9 +24,9 @@
 
 ### ⚡ About Me
 
-- 💻 **Core Focus**: Building full-stack web applications with **Vue 3**, **TypeScript**, **Inertia.js**, and **Laravel**.
-- 🛠️ **Engineering Standards**: Domain-driven single-action services, automated quality gates (Pest PHP, Pint, ESLint), and high-contrast, accessible UI design.
-- 🌱 **Currently Exploring**: Advanced Python workflows, cross-platform mobile with Flutter, and automated DevOps pipelines.
+- 💻 **Core Focus**: Building full-stack web applications with **Vue 3**, **TypeScript**, **Inertia.js**, and **Laravel 12**.
+- 🛠️ **Engineering Principles**: Single-Action domain services, automated test-driven development (Pest PHP, Pint, ESLint), and high-contrast, tactile UI design.
+- 🌱 **Currently Exploring**: Advanced Python data workflows, Flutter cross-platform architecture, and CI/CD pipelines.
 - 📬 **Reach Out**: Drop me an email at [`dion.areglo1234@gmail.com`](mailto:dion.areglo1234@gmail.com).
 
 ---
@@ -42,9 +45,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### **Backend & Persistence**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%208.5-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -59,15 +62,10 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehonored1ne&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehonored1ne&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="155" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehonored1ne&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=thehonored1ne&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 </div>
 
 ---
